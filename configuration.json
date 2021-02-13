@@ -1,8 +1,8 @@
 {
   "workbench.colorTheme": "Gruvbox Dark Hard",
   "editor.detectIndentation": true,
-  "editor.fontFamily": "JetBrainsMono-Regular.ttf",
-  "editor.fontSize": 14,
+  "editor.fontFamily": "/Users/lukamanitta/Library/Fonts/FiraCode-Regular.ttf",
+  "editor.fontSize": 13,
   "edit.fontLigatures": true,
   "editor.largeFileOptimizations": true,
   "editor.highlightActiveIndentGuide": true,
@@ -29,7 +29,8 @@
   "workbench.statusBar.visible": true,
   "workbench.tree.indent": 2,
   "vim.useSystemClipboard": [ "yank" ],
-  "vim.leader": "<SPACE>",
-  "experimental.viml": [ "nnoremap ; :", "nnoremap <SPACE> <Nop>|" ],
-  "experimental.editor.cursorSmoothCaretAnimation": false
+  "vim.leader": "<Space>",
+  "experimental.viml": [ "nnoremap ; :", "nnoremap <Space> <Nop>|" ],
+  "experimental.editor.cursorSmoothCaretAnimation": false,
+  "terminal.integrated.shell.windows": "zsh"
 }
